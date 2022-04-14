@@ -1,4 +1,5 @@
-[{
+{
+   'data': [{
 	"ID": 39,
 	"SiteID": 2,
 	"Link": "www.enter.ru",
@@ -17,3 +18,4 @@
 	"Site": "Youtube",
 	"Share": 12.85
 }]
+}
