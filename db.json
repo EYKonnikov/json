@@ -12,6 +12,30 @@
 	"Site": "Odnoklassniki.ru",
 	"Share": 19.68
 }, {
+	"ID": 78,
+	"SiteID": 9,
+	"Link": "www.asos.com",
+	"Site": "Pinterest",
+	"Share": 6.76
+}, {
+	"ID": 79,
+	"SiteID": 10,
+	"Link": "moscow.shop.megafon.ru",
+	"Site": "VKontakte",
+	"Share": 67.01
+}, {
+	"ID": 80,
+	"SiteID": 10,
+	"Link": "moscow.shop.megafon.ru",
+	"Site": "Odnoklassniki.ru",
+	"Share": 11.81
+}, {
+	"ID": 81,
+	"SiteID": 10,
+	"Link": "moscow.shop.megafon.ru",
+	"Site": "Youtube",
+	"Share": 11.17
+},{
 	"ID": 41,
 	"SiteID": 2,
 	"Link": "www.enter.ru",
